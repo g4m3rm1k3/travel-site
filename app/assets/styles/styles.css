@@ -1,11 +1,8 @@
 body{
-  color:green;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
 }
-
-$mainBlue: #2f5572;
-
-.large-hero{
-  h2{
-    color: $mainBlue;
-  }
+img{
+  max-width:100%;
+  height:auto;
 }
